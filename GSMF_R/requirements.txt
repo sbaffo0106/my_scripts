@@ -1,0 +1,7 @@
+data.table
+mvtnorm
+magicaxis
+plotrix
+xtable
+#dftools     #Install from GitHub or other sources if needed
+#celestial   #Install from GitHub or other sources if needed
